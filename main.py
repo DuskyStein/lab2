@@ -1,5 +1,3 @@
-filename = "postman.txt"
-
 with open('postman.txt', 'r') as f:
     graph = []
     for line in f:
